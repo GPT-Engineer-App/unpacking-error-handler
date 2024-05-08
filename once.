@@ -1,0 +1,3 @@
+df1 = dfs[0]  # Access the first item
+df2 = dfs[1]  # Access the second item
+df3 = dfs[2]  # Access the third item

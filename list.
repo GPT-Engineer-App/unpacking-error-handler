@@ -1,0 +1,1 @@
+df1, df2, *remaining_dfs = dfs  # df1 and df2 will be assigned, remaining_dfs will be a list of the rest

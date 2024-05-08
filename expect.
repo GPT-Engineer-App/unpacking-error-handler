@@ -1,0 +1,4 @@
+if len(dfs) == 3:
+    df1, df2, df3 = dfs
+else:
+    print("Error: Expected 3 items in 'dfs', got", len(dfs))
